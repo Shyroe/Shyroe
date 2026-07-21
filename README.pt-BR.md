@@ -6,7 +6,7 @@
 
 Software Developer com **mais de 4 anos de experiência** na construção e evolução de aplicações web, sistemas administrativos e produtos digitais, com maior profundidade em Frontend Engineering. Transformo requisitos e regras de negócio em interfaces baseadas em componentes, formulários complexos, fluxos orientados a dados e integrações confiáveis com APIs e serviços backend.
 
-Atuo da análise técnica à implementação, investigação de falhas, validação e manutenção evolutiva. Minha trajetória inclui um sistema de gestão em saúde, projetos web para clientes e desafios técnicos modernos com React/TanStack, apoiados por testes, validação visual, documentação e AI Workflow supervisionado.
+Atuo da análise técnica à implementação, investigação de falhas, validação e manutenção evolutiva. Minha trajetória inclui experiência no desenvolvimento e evolução de um sistema de gestão em saúde, projetos web para clientes e desafios técnicos modernos com React/TanStack, apoiados por testes, validação visual, documentação e AI Workflow supervisionado.
 
 [Estudos de caso](https://www.behance.net/rankdigitaldev) · [LinkedIn](https://www.linkedin.com/in/leonardo-camargo/) · [E-mail](mailto:lhc.developerweb@gmail.com)
 
