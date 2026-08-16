@@ -59,7 +59,7 @@ Sistema administrativo para fornecedores, produtos e endereços, com dashboard, 
 
 **Ago 2024–Presente · Remoto**
 
-Desenvolvimento e evolução de sites para clientes, landing pages responsivas, interfaces administrativas e desafios técnicos. A atuação abrange análise de requisitos, arquitetura de componentes, implementação com React e TypeScript, customização WordPress, integrações, colaboração com clientes e equipes técnicas, validação responsiva e visual, debugging e documentação.
+Desenvolvimento e evolução de projetos para clientes e parceiros, incluindo sites, landing pages, interfaces administrativas e aplicações web. A atuação abrange análise de requisitos, arquitetura de componentes, implementação com React e TypeScript, customização WordPress, integrações, colaboração com clientes, parceiros e equipes técnicas, validação responsiva e visual, debugging e documentação.
 
 ### MAXS Tecnologia — Frontend Software Developer
 

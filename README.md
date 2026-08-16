@@ -59,7 +59,7 @@ Administrative system for managing suppliers, products and addresses, with dashb
 
 **Aug 2024–Present · Remote**
 
-Develop and evolve client websites, responsive landing pages, administrative interfaces and technical challenges. Responsibilities span requirements analysis, component architecture, React and TypeScript implementation, WordPress customization, integrations, collaboration with clients and technical teams, responsive and visual validation, debugging and documentation.
+Develop and evolve projects for clients and partners, including websites, landing pages, administrative interfaces and web applications. Responsibilities span requirements analysis, component architecture, React and TypeScript implementation, WordPress customization, integrations, collaboration with clients, partners and technical teams, responsive and visual validation, debugging and documentation.
 
 ### MAXS Tecnologia — Frontend Software Developer
 
