@@ -21,13 +21,21 @@ I work across technical analysis, implementation, debugging, validation, ongoing
 
 ## Selected projects and systems
 
+### SYNX SAÚDE — healthcare management system
+
+Healthcare management system covering registration, scheduling, regulation, care, medical records, billing and reporting. As a Frontend Software Developer, I translated operational rules into Angular components, reactive forms, data grids, filters, asynchronous state and integrations with .NET services, while maintaining and evolving workflows already used by healthcare teams.
+
+**Stack:** Angular, TypeScript, RxJS, DevExtreme, REST/.NET APIs and SQL Server.
+
+[Case study](https://leonardocamargo.dev.br/projetos/synx-saude)
+
 ### Developer Portfolio — React/TanStack application
 
 Professional developer portfolio that connects profile, engineering capabilities, experience and projects across a homepage, project catalog and deeper case studies. I designed and developed the frontend product, including typed content modules, component architecture, responsive light/dark/system themes, accessible interactions, testing, visual validation and separate preview/production delivery on Cloudflare.
 
 **Stack:** TanStack Start, React, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Vitest, Testing Library, Playwright, axe and Cloudflare Workers.
 
-[Live portfolio](https://leonardocamargo.dev.br/)
+[Case study](https://leonardocamargo.dev.br/projetos/developer-portfolio) · [Live portfolio](https://leonardocamargo.dev.br/)
 
 ### Dr. Hélio Russo — React/TanStack landing page
 
@@ -37,21 +45,13 @@ Technical frontend challenge focused on reconstructing a dental landing page fro
 
 [Repository](https://github.com/Shyroe/lp-dr-helio-russo) · [Live demo](https://lp-dr-helio-russo.shyroe.workers.dev/)
 
-### SYNX SAÚDE — healthcare management system
-
-Healthcare management system covering registration, scheduling, regulation, care, medical records, billing and reporting. As a Frontend Software Developer, I translated operational rules into Angular components, reactive forms, data grids, filters, asynchronous state and integrations with .NET services, while maintaining and evolving workflows already used by healthcare teams.
-
-**Stack:** Angular, TypeScript, RxJS, DevExtreme, REST/.NET APIs and SQL Server.
-
-[Case study](https://www.behance.net/gallery/227109239/SYNX-SAUDE-Hospital-Management-System)
-
 ### Storebook — supplier and product management system
 
 Administrative system for managing suppliers, products and addresses, with dashboard, authentication, action-level permissions, filters, pagination and forms. I worked across interface, business rules, access control and persistence, including validation, relational modeling and a reproducible Docker-based demo environment.
 
 **Stack:** C#, ASP.NET Core MVC, Razor Views, Entity Framework Core, SQL Server, FluentValidation, ASP.NET Core Identity and Docker.
 
-[Case study](https://www.behance.net/gallery/252197681/Product-Management-System-Storebook)
+[Case study](https://leonardocamargo.dev.br/projetos/storebook)
 
 ## Professional experience
 
