@@ -6,9 +6,9 @@
 
 Software Developer with **4+ years of experience** building and evolving web applications, administrative systems and digital products, with deeper expertise in Frontend Engineering. I translate business requirements and operational rules into component-based interfaces, complex forms, data-intensive workflows and reliable integrations with APIs and backend services.
 
-I work across technical analysis, implementation, debugging, validation, ongoing maintenance and product evolution. My background includes experience developing and evolving a healthcare management system, web projects for clients and modern React/TanStack technical challenges, supported by testing, visual validation, documentation and supervised AI-assisted engineering workflows.
+I work across technical analysis, implementation, debugging, validation, ongoing maintenance and product evolution. My background includes experience developing and evolving a healthcare management system, web projects for clients, and current React/TanStack products and technical challenges supported by testing, visual validation, documentation and supervised AI-assisted engineering workflows.
 
-[Case studies](https://www.behance.net/rankdigitaldev) · [LinkedIn](https://www.linkedin.com/in/leonardo-camargo/) · [Email](mailto:lhc.developerweb@gmail.com)
+[Portfolio](https://leonardocamargo.dev.br/) · [LinkedIn](https://www.linkedin.com/in/leonardo-camargo/) · [Email](mailto:lhc.developerweb@gmail.com)
 
 ## Engineering capabilities
 
@@ -20,6 +20,14 @@ I work across technical analysis, implementation, debugging, validation, ongoing
 - **Engineering workflow and collaboration** — requirements alignment with clients and technical teams, task decomposition, Git-based delivery, documentation, regression prevention and acceptance criteria.
 
 ## Selected projects and systems
+
+### Developer Portfolio — React/TanStack application
+
+Professional developer portfolio that connects profile, engineering capabilities, experience and projects across a homepage, project catalog and deeper case studies. I designed and developed the frontend product, including typed content modules, component architecture, responsive light/dark/system themes, accessible interactions, testing, visual validation and separate preview/production delivery on Cloudflare.
+
+**Stack:** TanStack Start, React, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Vitest, Testing Library, Playwright, axe and Cloudflare Workers.
+
+[Live portfolio](https://leonardocamargo.dev.br/)
 
 ### Dr. Hélio Russo — React/TanStack landing page
 
@@ -37,21 +45,13 @@ Healthcare management system covering registration, scheduling, regulation, care
 
 [Case study](https://www.behance.net/gallery/227109239/SYNX-SAUDE-Hospital-Management-System)
 
-### Fintech Invoicing Dashboard
+### Storebook — supplier and product management system
 
-Full-stack technical challenge for invoice registration and financial monitoring, with paginated records, filters, financial indicators and monthly charts. The solution separates ASP.NET Core MVC presentation, business validation and Entity Framework Core persistence, with a Docker-based local environment for evaluation.
+Administrative system for managing suppliers, products and addresses, with dashboard, authentication, action-level permissions, filters, pagination and forms. I worked across interface, business rules, access control and persistence, including validation, relational modeling and a reproducible Docker-based demo environment.
 
-**Stack:** .NET 8, ASP.NET Core MVC, Entity Framework Core, SQL Server, FluentValidation and Docker.
+**Stack:** C#, ASP.NET Core MVC, Razor Views, Entity Framework Core, SQL Server, FluentValidation, ASP.NET Core Identity and Docker.
 
-[Repository](https://github.com/Shyroe/fintech) · [Case study](https://www.behance.net/gallery/235696301/Fintech-Invoicing-Dashboard)
-
-### JR3 Real Estate — custom WordPress website
-
-Responsive real-estate solution built with a custom WordPress theme and structured, editable property content. The implementation combines ACF-based content modeling, maintainable templates and responsive frontend behavior to support property presentation and day-to-day content management.
-
-**Stack:** WordPress, PHP, custom theme development and ACF.
-
-[Case study](https://www.behance.net/gallery/218698451/Wordpress-Website-Real-State-JR3)
+[Case study](https://www.behance.net/gallery/252197681/Product-Management-System-Storebook)
 
 ## Professional experience
 
@@ -91,4 +91,4 @@ I turn broad requirements into scoped, verifiable changes by aligning expectatio
 
 Open to remote software-development opportunities and technical partnerships involving frontend engineering, web applications, administrative interfaces and custom web projects.
 
-[LinkedIn](https://www.linkedin.com/in/leonardo-camargo/) · [Email](mailto:lhc.developerweb@gmail.com) · [Case studies](https://www.behance.net/rankdigitaldev)
+[Portfolio](https://leonardocamargo.dev.br/) · [LinkedIn](https://www.linkedin.com/in/leonardo-camargo/) · [Email](mailto:lhc.developerweb@gmail.com)
